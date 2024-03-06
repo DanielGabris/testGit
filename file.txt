@@ -1,1 +1,2 @@
 toto je file.txt
+toto je dopisane v hotfixe
