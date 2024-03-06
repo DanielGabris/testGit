@@ -3,4 +3,5 @@ b master upravene manualne
 c
 d
 e
+Pridne v hotfix vetve.
 
