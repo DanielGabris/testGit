@@ -1,2 +1,3 @@
 toto je file.txt
 toto je dopisane v hotfixe
+toto je verzia 3
